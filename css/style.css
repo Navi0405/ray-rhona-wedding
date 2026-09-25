@@ -468,8 +468,6 @@ button {
 }
 
 .wide-photo::before {
-  content: 'ADD STORY PHOTO';
-
   position: absolute;
   inset: 0;
 
